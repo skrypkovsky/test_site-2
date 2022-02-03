@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+ position: absolute;
+    width: 100%;
+    padding-top: 32px;
+
+}
+.box_head { margin: auto;
+    max-width: 1110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logo {
+    display: flex;
+
+}
+.logo img {
+    padding-right: 22px;
+}
+.span_logo {
+    display: block;
+    max-width: 193px;
+    font-family: "20 Kopeek Book";
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.block_phone {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+
+}
+.phone {
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 15px;
+    line-height: 22px;
+    display: inline-block;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+padding-top: 7px;
+    padding-right: 27px;
+    padding-bottom: 7px;
+    padding-left: 33px;
+}
+.fb {
+    margin-left: 23px;
+}
+.ig {
+    margin-left: 23px;
+}
+.section_1 {
+    background-image: url("images/bg-1.png");
+    background-size: 100%;
+    background-position: top;
+    background-size: cover;
+    height: 100vh;
+    position: center;
+    background-repeat: no-repeat;
+    padding-top: 344px;
+    padding-bottom: 309px;
+    box-sizing: border-box;
+
+}
+
+.box_1 { margin: auto;
+    max-width: 1110px;
+
+}
+.box_1_h2 {
+    font-family: "20 Kopeek Book";
+    font-size: 55px;
+    line-height: 55px;
+    color: #181818;
+
+}
+
+.span_box_1 {
+    font-family: "20 Kopeek Book";
+    font-size: 34px;
+    line-height: 37px;
+    display: block;
+    padding-top: 30px;
+
+}
+.section_1_button {
+    display: flex;
+    padding-top: 65px;
+}
+.button_portfolio {
+    background: #FFFFFF;
+    border-radius: 40px;
+    font-size: 18px;
+    color: #181818;
+    line-height: 25px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 23px 47px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
+
+.button_zayavka {
+    background: #FFFFFF;
+    border-radius: 40px;
+    font-size: 18px;
+    color: #181818;
+    line-height: 25px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 23px 47px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+
+}
+
+.section_2 {
+    width: 100%;
+    padding-top: 70px;
+    background-color: #ffffff;
+    box-sizing: border-box;
+
+}
+.box_2 {
+    margin: auto;
+    max-width: 1110px;
+
+}
+.box_2_h2 {
+    font-family: "20 Kopeek Book";
+    font-size: 38px;
+    line-height: 41px;
+    color: #181818;
+}
+.box_2_2 {
+    display: flex;
+    padding-top: 15px;
+
+}
+.box_2_2 p {
+    font-size: 18px;
+    color: #181818;
+    font-family: "20 Kopeek Book";
+    margin-bottom: 40px;
+    line-height: 25px;
+}
+
+.box_2_2 img {
+    padding-right: 30px;
+
+}
+
